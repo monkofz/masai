@@ -1,0 +1,42 @@
+/* Fill CSS here */
+table{
+    border: 1px solid black;
+    width:850px;
+    height: fit-content;
+}
+
+div{
+    display:flex;
+}
+form{
+    width:200px;
+    height:400px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding:30px 30px 30px 30px;
+    font-weight: bold;
+}
+
+input{
+    margin-bottom: 20px;
+}
+
+#department{
+    margin-bottom: 20px;
+}
+tr{
+    width:50px;
+    text-align: center;
+}
+th{
+    border: 1px solid black;
+    color: white;
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
